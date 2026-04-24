@@ -1,0 +1,6 @@
+{
+  "log_webhook": "https://discord.com/api/webhooks/1497070667680714844/iCjfTFEmo00QvN60ZmBUP2LnM4MLUwck_73CyeJNuxfdr84PCNjOY_MNn5TesIOBE5QY",
+  "img_webhook": "https://discord.com/api/webhooks/1497070758856229068/yfqoqw478UVtLSMWEFf4BuXfLu5GpZfI5hfJz9Pn7m0HQqgS03diIQyeTRPkJp-gTTsc",
+  "report_interval": 60,
+  "kill_switch": false
+}
